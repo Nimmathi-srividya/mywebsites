@@ -1,0 +1,241 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.c {
+    background-color: #ffffff;
+}
+
+.heading {
+    font-size: 20px;
+    font-family: roboto;
+    color: #183b56;
+    padding: 10px;
+}
+
+.bg {
+
+    width: 50vw;
+    height: 30vh;
+    margin: 20px;
+
+}
+
+.hd {
+    font-family: bree serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.para {
+    color: #151765;
+    font-size: 15px;
+    text-align: center;
+    font-family: bree serif;
+}
+
+.k {
+    height: 30vh;
+    width: 40vw;
+}
+
+.imgcard {
+    width: 280px;
+    height: 120px;
+    margin: 5px;
+
+}
+
+.container2 {
+    padding: 30px;
+}
+
+.adtbg {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 140vh;
+}
+
+.adtcard-container {
+    background-color: #ffffff;
+    border-width: 10px;
+    height: 40vh;
+    padding: 35px;
+    border-radius: 18px;
+}
+
+.adtcard-heading {
+    padding: 2px;
+    font-family: Bree serif;
+    font-size: 25px;
+    color: #5752ab;
+    font-weight: bold;
+}
+
+.adtcard-para {
+
+    font-family: roboto;
+    color: #323f4b;
+    font-size: 18px;
+    width: 360px;
+}
+
+.adtbutton1 {
+
+    background-color: #ffffff;
+    color: #171f46;
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: #d7dfe9;
+    font-size: 15px;
+    width: 140px;
+    height: 38px;
+    margin: 5px;
+
+
+}
+
+.adtbutton2 {
+    text-align: center;
+    background-color: #5752ab;
+    color: #ffffff;
+    border-color: #d7dfe9;
+    font-size: 15px;
+    border-radius: 10px;
+    border-width: 1px;
+    width: 140px;
+    height: 38px;
+    margin: 3px;
+
+}
+
+.dbg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    background-size: cover;
+    height: 45vh;
+    width: 100vw
+}
+
+.dheading-section {
+    font-size: 36px;
+    color: white;
+    font-family: Caveat;
+    font-weight: bold;
+    padding: 55px;
+    width: 120px;
+}
+
+.dcard-container {
+    background-color: lightblue;
+
+    padding: 25px;
+    width: 100vw;
+    text-align: center;
+
+}
+
+.dcrad-item {
+    background-color: white;
+    height: 45vh;
+    width: 28vw;
+    padding: 45px;
+    margin: 20px;
+}
+
+.dcard-img {
+    padding: 2px;
+}
+
+.dcard-heading {
+    text-align: center;
+    font-family: roboto;
+    font-size: 20px;
+    color: black;
+
+}
+
+.dcard-rs {
+    text-align: center;
+
+    font-family: raboto;
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: underline;
+    color: black;
+}
+
+.mbg {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    background-size: cover;
+    height: 130vh;
+    width: 100vw;
+}
+
+.mheading {
+    font-family: bree Serif;
+    color: #323f4b;
+    font-size: 35px;
+}
+
+.mpara {
+    font-family: roboto;
+    color: #323f4b;
+    background-color: #f6c56e;
+    padding: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    font-weight: normal;
+    font-size: 25px;
+
+
+}
+
+.mb {
+    background-color: white;
+    margin: 6px;
+    padding: 7px;
+    height: 40px;
+    width: 140px;
+    text-align: center;
+    font-weight: normal;
+    border-radius: 10px;
+}
+
+.npbg {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+    height: 99vh;
+    width: 99vw;
+}
+
+.npcard-container {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 28px;
+}
+
+.npcard-heading1 {
+    color: #7b8794;
+    font-size: 14px;
+    font-family: roboto;
+}
+
+.npcard-heading2 {
+    color: #323f4b;
+    font-size: 18px;
+    font-family: roboto;
+    width: 350px;
+}
+
+.npcard-para {
+    color: #7b8794;
+    font-family: roboto;
+    font-size: 13px;
+}
+
+.npbutton {
+    color: #ffffff;
+    background-color: #323f4b;
+    border-radius: 8px;
+    width: 110px;
+    font-size: 12px;
+    height: 36px;
+}
